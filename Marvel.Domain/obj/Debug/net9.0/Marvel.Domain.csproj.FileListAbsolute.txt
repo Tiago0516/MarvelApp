@@ -1,0 +1,11 @@
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Domain/bin/Debug/net9.0/Marvel.Domain.deps.json
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Domain/bin/Debug/net9.0/Marvel.Domain.dll
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Domain/bin/Debug/net9.0/Marvel.Domain.pdb
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Domain/obj/Debug/net9.0/Marvel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Domain/obj/Debug/net9.0/Marvel.Domain.AssemblyInfoInputs.cache
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Domain/obj/Debug/net9.0/Marvel.Domain.AssemblyInfo.cs
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Domain/obj/Debug/net9.0/Marvel.Domain.csproj.CoreCompileInputs.cache
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Domain/obj/Debug/net9.0/Marvel.Domain.dll
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Domain/obj/Debug/net9.0/refint/Marvel.Domain.dll
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Domain/obj/Debug/net9.0/Marvel.Domain.pdb
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Domain/obj/Debug/net9.0/ref/Marvel.Domain.dll

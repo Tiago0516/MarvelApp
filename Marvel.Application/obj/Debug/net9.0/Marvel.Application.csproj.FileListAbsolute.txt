@@ -1,0 +1,17 @@
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/obj/Debug/net9.0/Marvel.Application.csproj.AssemblyReference.cache
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/obj/Debug/net9.0/Marvel.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/obj/Debug/net9.0/Marvel.Application.AssemblyInfoInputs.cache
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/obj/Debug/net9.0/Marvel.Application.AssemblyInfo.cs
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/obj/Debug/net9.0/Marvel.Application.csproj.CoreCompileInputs.cache
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/bin/Debug/net9.0/Marvel.Application.deps.json
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/bin/Debug/net9.0/Marvel.Application.dll
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/bin/Debug/net9.0/Marvel.Application.pdb
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/bin/Debug/net9.0/Marvel.Domain.dll
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/bin/Debug/net9.0/Marvel.Infrastructure.dll
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/bin/Debug/net9.0/Marvel.Domain.pdb
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/bin/Debug/net9.0/Marvel.Infrastructure.pdb
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/obj/Debug/net9.0/Marvel.A.CE101238.Up2Date
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/obj/Debug/net9.0/Marvel.Application.dll
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/obj/Debug/net9.0/refint/Marvel.Application.dll
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/obj/Debug/net9.0/Marvel.Application.pdb
+/Users/s_giraldoc/Documents/C#/MarvelApp/Marvel.Application/obj/Debug/net9.0/ref/Marvel.Application.dll
